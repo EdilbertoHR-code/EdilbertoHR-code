@@ -51,12 +51,14 @@ I have a constant hunger to learn new tools and technologies. I work strongly un
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 #### 🏢 Ecosystem: Alquiladora Romero
-A comprehensive enterprise logistics and inventory management suite, designed under a multi-channel architecture:
+A comprehensive enterprise logistics and inventory management suite, designed under a multi-channel architecture with AI-driven insights:
 - 💻 **Web Platform:** Centralized administrative panel for operational and rental management.
 - 📱 **Mobile App:** Tool for field management, logistics, and real-time delivery tracking.
 - ⌚ **Wear OS:** Smartwatch extension that allows users to quickly check operational status from their wrist.
-- 🎙️ **Alexa Skill:** Conversational voice interface to check inventory availability and event schedules.
+- 🤖 **AI Order Prediction:** Machine learning integration designed to forecast rental demand and optimize inventory routing.
 
 #### 🍔 [Plaza de Sabor](https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente)
 - Digital platform oriented to the gastronomy industry for the management, visualization, and discovery of culinary offerings, with a strong focus on UI/UX and performance.
@@ -67,7 +69,6 @@ A comprehensive enterprise logistics and inventory management suite, designed un
 
 #### 💙 Nido Amor
 - Interactive mobile application developed under the Flutter framework with a fluid and modern design.
-
 ---
 
 ### 📈 GitHub Analytics
