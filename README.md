@@ -48,24 +48,17 @@ I have a constant hunger to learn new tools and technologies. I work strongly un
 | **Tools & Others** | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" /> |
 
 ---
-
-### 🚀 Featured Projects
-
 ### 🚀 Featured Projects
 
 #### 🏢 Ecosystem: Alquiladora Romero
 A comprehensive enterprise logistics and inventory management suite, designed under a multi-channel architecture with AI-driven insights:
-- 💻 **Web Platform:** Centralized administrative panel for operational and rental management.
-- 📱 **Mobile App:** Tool for field management, logistics, and real-time delivery tracking.
-- ⌚ **Wear OS:** Smartwatch extension that allows users to quickly check operational status from their wrist.
-- 🤖 **AI Order Prediction:** Machine learning integration designed to forecast rental demand and optimize inventory routing.
+- 💻 **[Web Platform:](https://github.com/Alquiladora/AlquiladoraRomero_Client)** Centralized administrative panel for operational and rental management.
+- 📱 **[Mobile App:](https://github.com/Alquiladora/Movil-Alquiladora-Romero-Repartidor)** Tool for field management, logistics, and real-time delivery tracking.
+- ⌚ **[Wear OS:](https://github.com/EdilbertoHR-code/WearOsAlquiladoraRomero)** Smartwatch extension that allows users to quickly check operational status from their wrist.
+- 🤖 **[AI Order Prediction:](https://github.com/EdilbertoHR-code/Predicion-de-peididos-calcelados)** Machine learning integration designed to forecast rental demand and optimize inventory routing.
 
 #### 🍔 [Plaza de Sabor](https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente)
 - Digital platform oriented to the gastronomy industry for the management, visualization, and discovery of culinary offerings, with a strong focus on UI/UX and performance.
-
-<a href="https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnaMariaGit2024&repo=Plaza_Del_Sabor_Cliente&theme=tokyonight&hide_border=true" alt="Plaza de Sabor Repo" />
-</a>
 
 #### 💙 Nido Amor
 - Interactive mobile application developed under the Flutter framework with a fluid and modern design.
