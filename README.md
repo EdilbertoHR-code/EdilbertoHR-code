@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00F7FF&height=200&section=header&text=Edilberto%20Hernández&fontSize=60&fontAlignY=35&animation=fadeIn" />
   
-  <h3>🚀 Consultor Junior | Software Engineer</h3>
-  <p><b>Ingeniería en Desarrollo y Gestión de Software (UTHH)</b></p>
+  <h3>🚀 Senior Full Stack Developer | Software Engineer</h3>
+  <p><b>Ingeniero en Desarrollo y Gestión de Software (Egresado UTHH)</b></p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%26+Wear+OS+Specialist;Alexa+Skills+Developer;AI+%26+Machine+Learning" />
 </div>
@@ -17,9 +17,9 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy **Consultor Junior** y estudiante de 10º cuatrimestre en la **Universidad Tecnológica de la Huasteca Hidalguense (UTHH)**. Me especializo en el ciclo de vida completo del desarrollo de software, creando desde aplicaciones web y móviles hasta integraciones con dispositivos IoT (Wearables y Alexa). 
+Soy **Ingeniero en Desarrollo y Gestión de Software** egresado de la **Universidad Tecnológica de la Huasteca Hidalguense (UTHH)** y **Full Stack Developer**. Me especializo en dominar el ciclo de vida completo del desarrollo de software, creando soluciones robustas que abarcan desde aplicaciones web y móviles hasta integraciones complejas con dispositivos IoT (Wearables y Alexa). 
 
-Me apasiona construir arquitecturas escalables, explorar el Machine Learning y resolver problemas complejos de negocio mediante código limpio y eficiente.
+Mi enfoque está en construir arquitecturas escalables, implementar buenas prácticas, integrar Machine Learning y resolver problemas complejos de negocio mediante código limpio y eficiente.
 
 ---
 
@@ -51,20 +51,17 @@ Una suite completa de gestión de inventarios y logística empresarial, diseñad
 
 ### 📈 Análisis de Repositorios y Actividad
 
-*(Estas métricas se actualizan en tiempo real basándose en tu actividad y colaboraciones)*
+*(Estas métricas están conectadas directamente a tu cuenta de GitHub y generarán gráficas visuales de tus commits, lenguajes y contribuciones en tiempo real)*
 
 <div align="center">
-  <!-- Gráfico de actividad general (Commits, PRs, Issues) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F7FF&icon_color=00F7FF"/>
   
-  <!-- Lenguajes más utilizados -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&title_color=00F7FF"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Gráfico de rachas de contribución (Colaboraciones diarias) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdilbertoHR-code&theme=tokyonight&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 
