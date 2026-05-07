@@ -62,7 +62,7 @@ A comprehensive enterprise logistics and inventory management suite, designed un
 - Digital platform oriented to the gastronomy industry for the management, visualization, and discovery of culinary offerings, with a strong focus on UI/UX and performance.
 
 <a href="https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USUARIO_DUEÑO]&repo=Plaza_Del_Sabor_Cliente&theme=tokyonight&hide_border=true" alt="Plaza de Sabor Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnaMariaGit202&repo=Plaza_Del_Sabor_Cliente&theme=tokyonight&hide_border=true" alt="Plaza de Sabor Repo" />
 </a>
 
 #### 💙 Nido Amor
