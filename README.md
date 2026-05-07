@@ -25,6 +25,14 @@ I have a constant hunger to learn new tools and technologies. I work strongly un
 
 ---
 
+### 💼 Experience
+
+🏢 **Junior Consultant | Fabric Soft** *Present* Currently working as a Junior Consultant, applying my engineering background to design, develop, and maintain software solutions while providing technical consulting for business scalability.
+
+🏢 **Software Engineering Intern | Fabricolsiting** *Completed* Successfully completed my professional engineering internship (*estadía*). During this time, I rapidly adapted to new environments, learned emerging technologies, and applied them to solve real-world technical requirements.
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 | Category | Technologies |
@@ -58,9 +66,9 @@ A comprehensive enterprise logistics and inventory management suite, designed un
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=102)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&hide_border=true&v=4)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=102)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&hide_border=true&v=4)
 
 <br>
 
