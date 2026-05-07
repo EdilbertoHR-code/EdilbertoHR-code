@@ -65,17 +65,18 @@ A comprehensive enterprise logistics and inventory management suite, designed un
 ---
 
 ### 📈 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&hide_border=true&v=4" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&hide_border=true&v=4" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&hide_border=true&random=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&hide_border=true&random=1" alt="Top Languages" />
 
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdilbertoHR-code&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="850"/>
-<br><br>
+  <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=EdilbertoHR-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdilbertoHR-code&theme=tokyo-night&hide_border=true&area=true&random=1" alt="Activity Graph" width="850" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=EdilbertoHR-code&theme=tokyonight&hide_border=true&random=1" alt="GitHub Streak" />
 
 </div>
 
