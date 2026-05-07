@@ -1,62 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00F7FF&height=200&section=header&text=Edilberto%20Hernández&fontSize=60&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00F7FF&height=200&section=header&text=Edilberto%20Hernández&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
   
   <h3>🚀 Senior Full Stack Developer | Software Engineer</h3>
-  <p><b>Ingeniero en Desarrollo y Gestión de Software (Egresado UTHH)</b></p>
+  <p><b>B.S. in Software Development and Management Engineering (UTHH Alumni)</b></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%26+Wear+OS+Specialist;Alexa+Skills+Developer;AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Developer;Always+Learning+New+Technologies;Mobile,+Web+%26+IoT+Ecosystems;Agile+Methodologies+Advocate" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/EdilbertoHR-code">
-    <img src="https://img.shields.io/github/followers/EdilbertoHR-code?label=Seguidores&style=social" />
+    <img src="https://img.shields.io/github/followers/EdilbertoHR-code?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 👨‍💻 About Me
 
-Soy **Ingeniero en Desarrollo y Gestión de Software** egresado de la **Universidad Tecnológica de la Huasteca Hidalguense (UTHH)** y **Full Stack Developer**. Me especializo en dominar el ciclo de vida completo del desarrollo de software, creando soluciones robustas que abarcan desde aplicaciones web y móviles hasta integraciones complejas con dispositivos IoT (Wearables y Alexa). 
+I am a **Software Engineer** and **Senior Full Stack Developer** who recently graduated from the **Universidad Tecnológica de la Huasteca Hidalguense (UTHH)**. I specialize in the complete software development lifecycle, building robust architectures that range from web and mobile applications to complex IoT integrations (Wearables, Arduino, and Alexa).
 
-Mi enfoque está en construir arquitecturas escalables, implementar buenas prácticas, integrar Machine Learning y resolver problemas complejos de negocio mediante código limpio y eficiente.
+I am highly passionate about continuous learning and constantly exploring new technologies to improve my craft. I thrive in environments that use **Agile Methodologies** (Scrum, Kanban) to deliver clean, efficient, and scalable code that solves real-world business problems.
 
 ---
 
-### 🛠️ Ecosistema Tecnológico
+### 🛠️ Tech Stack & Ecosystem
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Frontend Web** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Core** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Mobile & Wearables** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Wear OS](https://img.shields.io/badge/-Wear_OS-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **Voz & IA** | ![Alexa](https://img.shields.io/badge/-Alexa_Skills-00CAFF?style=flat-square&logo=amazon-alexa&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **IoT & AI** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Alexa](https://img.shields.io/badge/-Alexa_Skills-00CAFF?style=flat-square&logo=amazon-alexa&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Tools & Methods** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile_Methodologies-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
-### 🚀 Proyectos Principales
+### 🚀 Featured Projects
 
-#### 🏢 Ecosistema: Alquiladora Romero
-Una suite completa de gestión de inventarios y logística empresarial, diseñada con una arquitectura multicanal:
-- 💻 **Plataforma Web:** Panel de administración central para la gestión de rentas.
-- 📱 **Aplicación Móvil:** App para gestión en campo y seguimiento de entregas.
-- ⌚ **Wear OS:** Extensión para smartwatches que permite consultar el estatus de rentas desde la muñeca.
-- 🎙️ **Skill de Alexa:** Interfaz de voz conversacional para consultar inventario y próximos eventos.
+#### 🏢 Ecosystem: Alquiladora Romero
+A comprehensive enterprise logistics and inventory management suite designed with a multi-channel architecture:
+- 💻 **Web Platform:** Central administration panel for rental management.
+- 📱 **Mobile App:** Field management and delivery tracking application.
+- ⌚ **Wear OS:** Smartwatch extension to check rental statuses directly from the wrist.
+- 🎙️ **Alexa Skill:** Conversational voice interface to query inventory and upcoming events.
 
 #### 🍔 Plaza de Sabor
-- Plataforma orientada a la industria gastronómica para la visualización y gestión de ofertas culinarias, optimizando la experiencia del usuario.
+- A platform geared towards the gastronomy industry for visualizing and managing culinary offerings, highly optimized for user experience.
 
 ---
 
-### 📈 Análisis de Repositorios y Actividad
+### 📈 GitHub Analytics & Activity
 
-*(Estas métricas están conectadas directamente a tu cuenta de GitHub y generarán gráficas visuales de tus commits, lenguajes y contribuciones en tiempo real)*
+*(These metrics update dynamically based on real-time contributions and repositories)*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilbertoHR-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&title_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilbertoHR-code&layout=compact&theme=tokyonight&title_color=00F7FF" alt="Top Languages" />
 </div>
 
 <br>
@@ -67,13 +67,13 @@ Una suite completa de gestión de inventarios y logística empresarial, diseñad
 
 ---
 
-### 🤝 Contáctame
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/EdilbertoHR-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:tu-correo@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
