@@ -58,8 +58,12 @@ A comprehensive enterprise logistics and inventory management suite, designed un
 - ⌚ **Wear OS:** Smartwatch extension that allows users to quickly check operational status from their wrist.
 - 🎙️ **Alexa Skill:** Conversational voice interface to check inventory availability and event schedules.
 
-#### 🍔 Plaza de Sabor
+#### 🍔 [Plaza de Sabor](https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente)
 - Digital platform oriented to the gastronomy industry for the management, visualization, and discovery of culinary offerings, with a strong focus on UI/UX and performance.
+
+<a href="https://github.com/AnaMariaGit2024/Plaza_Del_Sabor_Cliente">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[USUARIO_DUEÑO]&repo=Plaza_Del_Sabor_Cliente&theme=tokyonight&hide_border=true" alt="Plaza de Sabor Repo" />
+</a>
 
 #### 💙 Nido Amor
 - Interactive mobile application developed under the Flutter framework with a fluid and modern design.
