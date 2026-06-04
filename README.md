@@ -4,13 +4,13 @@
 
 # 👋 Hola, soy Edilberto Hernández Ramírez
 
-### Full Stack Developer Jr | React · Node.js · Python · SQL/NoSQL · IA Aplicada
+### Full Stack Developer Jr | Backend · APIs · Bases de Datos · IA Aplicada
 
 <b>Ingeniero en Desarrollo y Gestión de Software | UTHH</b>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+Jr;React,+Next.js,+Angular+%26+TypeScript;Node.js,+Python,+Laravel+%26+APIs;Call+Center+IA,+SaaS+%26+Automation;SQL,+NoSQL,+Oracle+APEX+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+Jr;React,+Next.js,+Angular+%26+TypeScript;Node.js,+Python,+Laravel+%26+APIs;SaaS,+Automation+%26+AI+Applied;SQL,+NoSQL,+Oracle+APEX+%26+Cloud" alt="Typing SVG" />
 
 <br>
 
@@ -26,7 +26,7 @@
 
 Soy **Desarrollador Full Stack Jr** e **Ingeniero en Desarrollo y Gestión de Software**, enfocado en construir soluciones web, plataformas SaaS, dashboards, APIs, bases de datos y automatización de procesos con Inteligencia Artificial.
 
-He trabajado en proyectos reales y entornos empresariales, participando en frontend, backend, integración de APIs, bases de datos SQL/NoSQL, despliegues en la nube y herramientas basadas en IA.
+He trabajado en proyectos reales y entornos empresariales, participando en frontend, backend, integración de APIs, bases de datos SQL/NoSQL, despliegues en la nube, documentación técnica, pruebas funcionales y herramientas basadas en IA.
 
 Mi enfoque principal está en construir soluciones completas que conectan:
 
@@ -50,9 +50,11 @@ Actualmente estoy fortaleciendo mi perfil en **Backend, Bases de Datos, IA aplic
 
 Trabajo en el desarrollo de soluciones web empresariales, participando en frontend, backend, integración de APIs, pruebas funcionales, documentación y despliegue.
 
-#### Proyecto principal: Call Center IA
+#### Proyecto principal: Plataforma privada de Call Center IA
 
-Desarrollé y participé en la arquitectura técnica de una plataforma SaaS de agentes de voz con Inteligencia Artificial, enfocada en automatizar llamadas salientes.
+Participé en el desarrollo técnico de una **plataforma SaaS privada** orientada a la automatización de procesos de call center mediante agentes de voz con Inteligencia Artificial.
+
+El sistema está enfocado en automatización de llamadas salientes, configuración de agentes, gestión de campañas, administración de contactos, reportes operativos y flujos de comunicación asistidos por IA.
 
 **Mi participación:**
 
@@ -61,11 +63,14 @@ Desarrollé y participé en la arquitectura técnica de una plataforma SaaS de a
 - Integración de APIs.
 - Diseño de flujos funcionales.
 - Base de datos.
-- Módulos de agentes, campañas, contactos, números, planes, reportes y facturación.
+- Módulos administrativos.
 - Integración con servicios de IA y telecomunicaciones.
-- Pruebas funcionales y documentación.
+- Pruebas funcionales.
+- Documentación técnica.
 
-**Tecnologías relacionadas:** React, TypeScript, Node.js, APIs, OpenAI, Vapi, Telnyx, Zadarma, Firebase/MongoDB, Vercel.
+**Tecnologías relacionadas:** React, TypeScript, Node.js, APIs, servicios de IA, proveedores de telecomunicaciones, Firebase/MongoDB y Vercel.
+
+**Nota de confidencialidad:** Proyecto empresarial privado. Por confidencialidad, no se publica código fuente, URL interna, capturas, credenciales, nombres de clientes, prompts internos, configuración técnica sensible ni información operativa de la empresa. Puedo explicar mi participación técnica, módulos desarrollados y arquitectura general durante entrevista.
 
 ---
 
@@ -167,7 +172,6 @@ Herramientas utilizadas en entornos empresariales para construir, integrar o adm
 
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 ![Oracle Fusion Cloud](https://img.shields.io/badge/Oracle_Fusion_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=fff)
 
 **Experiencia aplicada:** integración con plataformas empresariales, soporte a módulos internos, conexión con backend, formularios, componentes administrativos, dashboards y soluciones orientadas a procesos de negocio.
 
@@ -286,17 +290,17 @@ Estoy reforzando arquitectura Full Stack, backend moderno, bases de datos, buena
 
 ## 🚀 Proyectos destacados
 
-### 🤖 Call Center IA — Plataforma SaaS con agentes de voz
+### 🤖 Plataforma privada de Call Center IA — SaaS con agentes de voz
 
-Plataforma SaaS enfocada en automatizar llamadas salientes mediante agentes virtuales con Inteligencia Artificial.
+Proyecto empresarial privado enfocado en la automatización de procesos de call center mediante agentes virtuales con Inteligencia Artificial.
 
 **Problema que resuelve:**  
-Reduce procesos manuales en call centers mediante automatización de llamadas, seguimiento de prospectos, configuración de agentes y administración de campañas.
+Ayuda a reducir procesos manuales en llamadas salientes, seguimiento de prospectos, configuración de agentes, administración de campañas y generación de reportes operativos.
 
 **Mi participación:**  
-Desarrollé frontend, backend, integración de APIs, base de datos, lógica del sistema, módulos operativos, pruebas funcionales y documentación.
+Participé en el desarrollo frontend, backend, integración de APIs, base de datos, lógica del sistema, módulos operativos, pruebas funcionales y documentación técnica.
 
-**Módulos principales:**
+**Módulos trabajados a nivel general:**
 
 - Agentes virtuales.
 - Campañas.
@@ -308,13 +312,15 @@ Desarrollé frontend, backend, integración de APIs, base de datos, lógica del 
 - Dashboard administrativo.
 - Integraciones con IA y telefonía.
 
-**Tecnologías:** React, TypeScript, Node.js, APIs, OpenAI, Vapi, Telnyx, Zadarma, Firebase/MongoDB.
+**Tecnologías relacionadas:** React, TypeScript, Node.js, APIs, servicios de IA, proveedores de telecomunicaciones, Firebase/MongoDB.
+
+**Nota:** Proyecto privado de empresa. La descripción se presenta de forma general y profesional, sin exponer código fuente, URLs internas, capturas, credenciales, clientes, prompts internos, lógica propietaria ni información sensible.
 
 ---
 
-### 🏢 Fabric Soft Web
+### 🏢 Fabric Soft Web — Proyecto empresarial privado
 
-Plataforma web empresarial enfocada en presentación corporativa, captación de prospectos y gestión de información.
+Proyecto web empresarial privado enfocado en presentación corporativa, captación de prospectos y gestión de información.
 
 **Mi participación:**
 
@@ -324,11 +330,9 @@ Plataforma web empresarial enfocada en presentación corporativa, captación de 
 - Integración con backend.
 - Pruebas funcionales.
 - Documentación técnica.
+- Corrección de errores visuales y funcionales.
 
-**Repositorios recomendados:**
-
-- `fabricsoft-frontend`
-- `fabricsoft-backend`
+**Nota:** Por confidencialidad empresarial, el código fuente, URL interna y capturas del sistema no se publican. Puedo explicar mi participación técnica, módulos trabajados y decisiones de implementación durante entrevista.
 
 ---
 
