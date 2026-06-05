@@ -43,14 +43,14 @@ Actualmente estoy fortaleciendo mi perfil en **Backend, Bases de Datos, IA aplic
 
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia y proyectos profesionales
 
 ### Fabric Soft — Consultor Junior / Desarrollador Full Stack  
 **Mayo 2026 — Actualidad**
 
 Trabajo en el desarrollo de soluciones web empresariales, participando en frontend, backend, integración de APIs, pruebas funcionales, documentación y despliegue.
 
-#### Proyecto principal: Plataforma privada de Call Center IA
+#### Plataforma privada de Call Center IA
 
 Participé en el desarrollo técnico de una **plataforma SaaS privada** orientada a la automatización de procesos de call center mediante agentes de voz con Inteligencia Artificial.
 
@@ -90,20 +90,28 @@ Participé en proyectos web empresariales durante mi estadía profesional, desar
 
 ---
 
-### Alquiladora Romero — Desarrollador Full Stack  
-**Octubre 2024 — Diciembre 2025**
+### Alquiladora Romero — Proyecto profesional implementado en negocio real  
+**Desarrollador Full Stack | Octubre 2024 — Diciembre 2025**
 
-Desarrollé un ecosistema digital para automatizar procesos de logística, inventario y administración de una empresa de renta de mobiliario.
+Desarrollé y participé en la construcción de un **ecosistema digital completo** para apoyar la operación de un negocio de renta de mobiliario.
+
+El proyecto fue orientado a digitalizar procesos de inventario, pedidos, logística, administración interna y seguimiento operativo, conectando una plataforma web, backend, aplicación móvil, extensión Wear OS y modelos de datos para predicción y recomendación.
 
 **Mi participación:**
 
 - Desarrollo frontend con React.
-- Backend con Node.js.
-- Base de datos MySQL.
-- Integración de pagos.
-- Aplicación móvil.
-- Wear OS.
-- Modelos de predicción y recomendación.
+- Desarrollo backend con Node.js.
+- Diseño y conexión con base de datos MySQL.
+- Integración de módulos de inventario, pedidos y logística.
+- Desarrollo de aplicación móvil para repartidores.
+- Desarrollo de extensión Wear OS.
+- Implementación de modelos de predicción y recomendación.
+- Documentación, pruebas y mejoras funcionales.
+- Organización del ecosistema para conectar web, backend, móvil y datos.
+
+**Tecnologías relacionadas:** React, Node.js, JavaScript, MySQL, Flutter, Kotlin, Python, Machine Learning, Wear OS.
+
+**Nota:** Proyecto real implementado para un negocio. La información se presenta de forma general como parte de mi portafolio técnico, sin exponer credenciales, datos privados de clientes, información sensible ni configuraciones internas.
 
 ---
 
@@ -336,27 +344,42 @@ Proyecto web empresarial privado enfocado en presentación corporativa, captaci�
 
 ---
 
-### 🏗️ Alquiladora Romero — Ecosistema digital
+### 🏗️ Alquiladora Romero — Ecosistema digital para negocio real
 
-Sistema de gestión para inventario, logística, pedidos y operación de una empresa de renta de mobiliario.
+Proyecto profesional implementado en un negocio de renta de mobiliario, enfocado en digitalizar procesos de inventario, pedidos, logística y operación interna.
 
 **Incluye:**
 
 - Plataforma web administrativa.
 - Backend con Node.js.
 - Base de datos MySQL.
-- App móvil.
-- Wear OS.
+- App móvil para repartidores.
+- Extensión Wear OS.
 - Integración de pagos.
-- Modelos de predicción y recomendación.
+- Modelo de predicción de pedidos cancelados.
+- Modelo de recomendación de productos.
+
+**Mi participación:**
+
+- Desarrollo frontend.
+- Desarrollo backend.
+- Diseño e integración de base de datos.
+- Desarrollo móvil.
+- Desarrollo Wear OS.
+- Modelos de datos aplicados a negocio.
+- Documentación y mejoras funcionales.
+
+**Nota:** Proyecto real usado en un negocio. La información se muestra de forma general, sin exponer credenciales, datos privados de clientes ni configuraciones sensibles.
 
 ---
 
-### 🍔 Plaza de Sabor
+### 🍔 Plaza de Sabor — Proyecto privado
 
 Plataforma web para administración y visualización de negocios gastronómicos.
 
 **Tecnologías:** React, Node.js, MongoDB.
+
+**Nota:** Proyecto privado. No se publica código fuente, capturas internas ni información sensible.
 
 ---
 
@@ -413,6 +436,10 @@ Mi objetivo es aportar en proyectos reales donde pueda construir software útil,
 
 <a href="https://www.youtube.com/@EHRMALL">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<a href="https://wa.me/525659722146?text=Hola%20Edilberto,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20interesa%20contactarte">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
