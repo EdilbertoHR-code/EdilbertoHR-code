@@ -179,7 +179,6 @@ Tecnologías que utilizo para almacenar, consultar, modelar y administrar inform
 Herramientas utilizadas en entornos empresariales para construir, integrar o administrar soluciones de negocio.
 
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
-![Oracle Fusion Cloud](https://img.shields.io/badge/Oracle_Fusion_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 
 **Experiencia aplicada:** integración con plataformas empresariales, soporte a módulos internos, conexión con backend, formularios, componentes administrativos, dashboards y soluciones orientadas a procesos de negocio.
 
@@ -288,7 +287,6 @@ Metodologías utilizadas para organizar proyectos, priorizar funcionalidades y c
 ![FastAPI](https://img.shields.io/badge/FastAPI-Aprendiendo-009688?style=flat-square&logo=fastapi&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Reforzando-316192?style=flat-square&logo=postgresql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-Básico-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-Reforzando-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-Reforzando-02569B?style=flat-square&logo=flutter&logoColor=fff)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-Reforzando-F80000?style=flat-square&logo=oracle&logoColor=fff)
 
