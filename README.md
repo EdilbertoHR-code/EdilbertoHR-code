@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0BA9B4&fontColor=000000&height=190&section=header&text=Edilberto%20Hernandez&fontSize=55" alt="Edilberto Hernandez Header" />
 
-# 👋 Hola, soy Edilberto Hernández Ramírez
+# 👋Hola, soy Edilberto Hernández Ramírez
 
 ### Full Stack Developer Jr | Backend · APIs · Bases de Datos · IA Aplicada
 
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Desarrollador Full Stack Jr** e **Ingeniero en Desarrollo y Gestión de Software**, enfocado en construir soluciones web, plataformas SaaS, dashboards, APIs, bases de datos y automatización de procesos con Inteligencia Artificial.
+Soy **Desarrollador Full Stack Jr** e **Ingeniero en Desarrollo y Gestión de Software**, enfocado en construir soluciones web, plataformas SaaS, dashboards, APIs, bases de datos y automatización de procesos con Inteligencia Artificial. Trabaje con el creador de IA Antonio bolaños
 
 He trabajado en proyectos reales y entornos empresariales, participando en frontend, backend, integración de APIs, bases de datos SQL/NoSQL, despliegues en la nube, documentación técnica, pruebas funcionales y herramientas basadas en IA.
 
